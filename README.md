@@ -26,4 +26,4 @@ This repository contains code for training a Support Vector Machine (SVM) model 
 ![Original Image](Cyber-threat-main/input.png)
 
 ### Predicted Output
-![Encoded Image](output.png)
+![Encoded Image](Cyber-threat-main/output.png)
